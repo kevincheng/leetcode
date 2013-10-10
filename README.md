@@ -1,6 +1,6 @@
 leetcode
 ========
-this is the answer to the leetcode question: three sum.
+this is the answer to the leetcode question: three sum
 the question is below:
 
 Given an array S of n integers, find three integers in S such that the sum is closest to a given number, target. 
